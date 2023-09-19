@@ -8,3 +8,6 @@ What is interesting about this article is the discussion on the importance of au
 
 Comment from Allison Ji:
 I couldn't agree more with the importance of automation in development processes, as highlighted in this article. Automation has consistently proven to be a necessity in today's fast-paced software development landscape. It not only accelerates the delivery of high-quality software but also frees up valuable human resources for more creative and strategic tasks.
+
+**Comment From Elaine Zhang:**
+Coincidentally, I also read articles about Software Developments automation and feel exactly the same with you. It became increasingly important in today's technology but at the same time still needs innovation and improvements. I found it interesting where you and the article mentioned to start small and pick areas with low risk for implementation. This collapses with what my article mentioned: there is high precision need in gradient-based techniques, therefore, people should start small and gradually grow big. In the future, I believe that deep learning and automation in software developments will become the major research direction.
